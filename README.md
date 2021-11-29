@@ -1,1 +1,1 @@
-# goldengate-bootcamp
+# Oracle GoldenGate BootCamp laboratory files

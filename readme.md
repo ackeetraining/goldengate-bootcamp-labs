@@ -1,1 +1,1 @@
-# Oracle GoldenGate BootCamp laboratory files
+# Oracle GoldenGate (Classic Architecture) BootCamp Labs

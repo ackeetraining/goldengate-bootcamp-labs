@@ -1,0 +1,7 @@
+# GoldenGate - Response file
+oracle.install.responseFileVersion=/oracle/install/rspfmt_ogginstall_response_schema_v21_1_0
+INSTALL_OPTION=ORA21c
+SOFTWARE_LOCATION=/u01/app/oracle/ogg
+START_MANAGER=false
+INVENTORY_LOCATION=/u01/app/oracle/oraInventory
+UNIX_GROUP_NAME=oinstall
